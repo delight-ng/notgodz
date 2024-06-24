@@ -1,8 +1,11 @@
 {
-  "name": "Test cube",
-  "description": "Only test",
-  "image": "https://raw.githubusercontent.com/delight-ng/notgodz/main/image.jpeg",
-  "cover_image": "https://raw.githubusercontent.com/delight-ng/notgodz/main/cover_image.jpeg",
-  "social_links": [],
-  "marketplace": "getgems.io"
+  "name": "CARD #1",
+  "description": "card",
+  "image": "https://raw.githubusercontent.com/delight-ng/notgodz/main/items/0/image.jpg",
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "mag"
+    }
+  ]
 }
