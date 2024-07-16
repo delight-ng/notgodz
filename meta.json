@@ -1,8 +1,13 @@
 {
-  "name": "Test cube",
-  "description": "Only test",
+  "name": "ARHI test",
+  "description": "test test test test",
   "image": "https://raw.githubusercontent.com/delight-ng/notgodz/main/image.jpeg",
   "cover_image": "https://raw.githubusercontent.com/delight-ng/notgodz/main/cover_image.jpeg",
-  "social_links": [],
+  "social_links": [
+    "https://t.me/",
+    "https://nft.com",
+    "https://x.com/",
+    "https://discord.gg/"
+  ],
   "marketplace": "getgems.io"
 }
