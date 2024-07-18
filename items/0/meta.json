@@ -5,7 +5,11 @@
   "attributes": [
     {
       "trait_type": "name",
-      "value": "mag"
+      "value": "mag_new"
+    },
+	{
+      "trait_type": "card",
+      "value": "old"
     }
   ]
 }
