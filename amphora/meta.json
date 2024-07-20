@@ -1,0 +1,13 @@
+{
+  "name": "NOTGOD Amphora",
+  "description": "Amphora allowing to receive passive income in the form of $NGOD from the NOTGOD project",
+  "image": "https://raw.githubusercontent.com/delight-ng/notgodz/main/amphora/image.png",
+  "cover_image": "https://raw.githubusercontent.com/delight-ng/notgodz/main/amphora/cover.png",
+  "social_links": [
+    "https://t.me/NOT_GOD_COIN",
+    "https://notgod.xyz",
+    "https://x.com/NOT_GOD_COIN",
+    "https://discord.gg/EnQeDgM9Ys"
+  ],
+  "marketplace": "getgems.io"
+}

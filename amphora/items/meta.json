@@ -1,0 +1,11 @@
+{
+  "name": "Amphora",
+  "description": "An ancient amphora with unique treasure",
+  "image": "https://raw.githubusercontent.com/delight-ng/notgodz/main/amphora/items/image.png",
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "Amphora"
+    }
+  ]
+}
